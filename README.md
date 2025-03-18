@@ -1,15 +1,20 @@
 # Laravel Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 03/13/2025
+This data is updated weekly, with filled postings removed. Last updated: 03/18/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Laravel Jobs](https://algojobs.io/jobs/laravel)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 03/17/2025 | [Intern - Software Engineering](https://algojobs.io/jobs/3500430) | [Rakuten Advertising](https://algojobs.io/company/rakuten/) | $30 - $50 | San Mateo, California / United States |
+| 03/17/2025 | [Intern - Software Engineering](https://algojobs.io/jobs/3500431) | [Rakuten Advertising](https://algojobs.io/company/rakuten/) | $30 - $50 | San Mateo, California / United States |
+| 03/13/2025 | [Back-End Software Engineer - PHP, Public API team](https://algojobs.io/jobs/3465405) | [Printify](https://algojobs.io/company/printify/) | N/A | London / Barcelona / Riga, Tallinn or remotely / ... |
+| 03/13/2025 | [Drupal/PHP Developer](https://algojobs.io/jobs/3464376) | [Evolving Web](https://algojobs.io/company/evolving-web/) | N/A | Montreal, Quebec, Canada (Hybrid) |
+| 03/13/2025 | [Drupal/PHP Developer](https://algojobs.io/jobs/3464377) | [Evolving Web](https://algojobs.io/company/evolving-web/) | N/A | Toronto, Ontario, Canada (Remote) |
 | 03/11/2025 | [Senior Software Engineer I [Backend] - SM Apply & Wufoo Teams](https://algojobs.io/jobs/3437707) | [SurveyMonkey](https://algojobs.io/company/surveymonkey/) | N/A | Bengaluru, India |
 | 03/11/2025 | [Senior PHP Developer](https://algojobs.io/jobs/3434700) | [Mumsnet](https://algojobs.io/company/mumsnet/) | $65K - $75K | London, England, United Kingdom (Hybrid) |
 | 03/10/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3422273) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
-| 03/10/2025 | [Sr Eng, Software](https://algojobs.io/jobs/3417528) | [Baxter](https://algojobs.io/company/baxter/) | N/A | Bangalore, Karnataka, India |
+| 03/10/2025 | [Software Engineer - Mid level Frontend](https://algojobs.io/jobs/3494522) | [Cover Genius](https://algojobs.io/company/covergenius/) | N/A | Sydney (Hybrid) |
 | 03/10/2025 | [Senior PHP Developer](https://algojobs.io/jobs/3434671) | [Newrich Network](https://algojobs.io/company/newrich-network/) | N/A | Medellín, Medellin, Colombia (Hybrid) |
 | 03/10/2025 | [Senior Full Stack Developer](https://algojobs.io/jobs/3434734) | [Shift](https://algojobs.io/company/shift-online/) | $45K - $55K | Plymouth, England, United Kingdom (Hybrid) |
 | 03/07/2025 | [Software Engineering Lead](https://algojobs.io/jobs/3410989) | [RELX](https://algojobs.io/company/relx/) | N/A | Wales, United Kingdom |
@@ -85,8 +90,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 01/21/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3014804) | [airSlate](https://algojobs.io/company/airslate/) | N/A | Wroclaw, Poland / Kyiv, Ukraine (Hybrid) |
 | 01/21/2025 | [Senior Software Developer](https://algojobs.io/jobs/2899064) | [Seadev](https://algojobs.io/company/seadev/) | N/A | Danang, Đà Nẵng, Vietnam |
 | 01/20/2025 | [Senior Fullstack Engineer](https://algojobs.io/jobs/2889419) | [The National College](https://algojobs.io/company/national-college/) | N/A | Sheffield, England, United Kingdom (Hybrid) |
-| 01/16/2025 | [Senior Staff Software Engineer, eCommerce](https://algojobs.io/jobs/2863492) | [Block](https://algojobs.io/company/block/) | $239K - $359K | Bay Area, CA, United States of America |
-| 01/16/2025 | [Software Engineer - Bengaluru, India (PHP+ReactJs)](https://algojobs.io/jobs/2861193) | [SpotOn: Product](https://algojobs.io/company/spotonproduct/) | N/A | Bengaluru, India |
-| 01/16/2025 | [Senior Software Engineer - Bengaluru, India (PHP+ReactJs)](https://algojobs.io/jobs/2861192) | [SpotOn: Product](https://algojobs.io/company/spotonproduct/) | N/A | Bengaluru, India |
-| 01/16/2025 | [PHP Web Developer](https://algojobs.io/jobs/2860553) | [Latitude Inc](https://algojobs.io/company/latitudeinc/) | $90K - $110K | Miami, FL / Orlando, FL (Hybrid) |
-| 01/16/2025 | [Graduate Web \| Software Developer - Hybrid \| Birmingham - Build a Career in Tech](https://algojobs.io/jobs/2858939) | [magic42](https://algojobs.io/company/magic42/) | N/A | Birmingham, England, United Kingdom (Hybrid) |
