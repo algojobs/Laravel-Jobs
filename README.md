@@ -1,31 +1,39 @@
 # Laravel Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/09/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Laravel Jobs](https://algojobs.io/jobs/laravel)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 04/13/2025 | [Senior Full Stack PHP Developer](https://algojobs.io/jobs/3777427) | [Advansys](https://algojobs.io/company/advansys-esc-1/) | N/A | Nasr City, Al Manteqah Al Oula, Egypt (Hybrid) |
+| 04/11/2025 | [Senior Software Engineer (Studio Blocks)](https://algojobs.io/jobs/3771582) | [GoFundMe](https://algojobs.io/company/gofundme/) | N/A | Buenos Aires, Argentina |
+| 04/11/2025 | [Senior Software Engineer, Platform](https://algojobs.io/jobs/3758206) | [BetterHelp](https://algojobs.io/company/betterhelpcom/) | $130K - $185K | US (Remote) |
+| 04/11/2025 | [Software Engineer](https://algojobs.io/jobs/3780640) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | BR - Pecem, Brazil |
+| 04/11/2025 | [Senior Software Engineer, PHP](https://algojobs.io/jobs/3770001) | [ButcherBox](https://algojobs.io/company/butcherbox/) | N/A | Colombia / Mexico / Argentina (Remote) |
+| 04/11/2025 | [Senior PHP and Laravel Developer (SQL Design and AWS)](https://algojobs.io/jobs/3780589) | [Synechron Limited_UK Company](https://algojobs.io/company/synechron/) | N/A | Pune - Hinjewadi (Ascendas), India |
+| 04/10/2025 | [Senior Backend Engineer](https://algojobs.io/jobs/3756347) | [Roofr](https://algojobs.io/company/roofr/) | N/A | Remote - Canada |
+| 04/10/2025 | [Software Engineer](https://algojobs.io/jobs/3758253) | [Greenplaces](https://algojobs.io/company/greenplaces/) | N/A | Raleigh, North Carolina, United States, Remote |
+| 04/10/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3754680) | [LifeRaft](https://algojobs.io/company/liferaft/) | N/A | Halifax, Nova Scotia, Canada (Hybrid) |
+| 04/10/2025 | [Intermediate/Senior Software Engineer (Angular, PHP) - OP01700](https://algojobs.io/jobs/3754752) | [Dev.Pro](https://algojobs.io/company/devpro/) | N/A | São Paulo, São Paulo, Brazil (Remote) |
+| 04/10/2025 | [Senior Backend Engineer (Europe Remote)](https://algojobs.io/jobs/3754245) | [Bnberry](https://algojobs.io/company/bnberry/) | N/A | Poland (Remote) |
+| 04/09/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/3742348) | [Chargezoom](https://algojobs.io/company/chargezoom/) | $125K - $200K | Salt Lake City HQ |
 | 04/08/2025 | [PHP - Senior Software Developer - Video Sharing Platform](https://algojobs.io/jobs/3721542) | [Aylo Careers](https://algojobs.io/company/aylo/) | N/A | Montréal, Quebec |
 | 04/08/2025 | [Senior Staff Software Engineer](https://algojobs.io/jobs/3716680) | [Five9](https://algojobs.io/company/five9/) | N/A | Australia (Remote) |
 | 04/08/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3713641) | [Chuffed.org](https://algojobs.io/company/chuffed/) | N/A | Sydney, New South Wales, Australia (Hybrid) |
 | 04/07/2025 | [Software Engineer – Marketing Platform (Full Stack)](https://algojobs.io/jobs/3718011) | [Betsson Group](https://algojobs.io/company/betsson/) | N/A | Malta |
 | 04/06/2025 | [PHP Software Engineer - Jumia (Full Time)](https://algojobs.io/jobs/3701349) | [Jumia](https://algojobs.io/company/jumia/) | N/A | Egypt |
-| 04/04/2025 | [Senior Software Developer](https://algojobs.io/jobs/3700468) | [UniUni Logistics](https://algojobs.io/company/uniuni-logistics/) | $80K - $110K | Vancouver, British Columbia, Canada (Hybrid) |
 | 04/04/2025 | [Desenvolvedor Backend Senior](https://algojobs.io/jobs/3704562) | [Newfold Digital](https://algojobs.io/company/web/) | N/A | Brazil - Remote |
 | 04/04/2025 | [Desenvolvedor Backend Senior](https://algojobs.io/jobs/3705490) | [HostGator](https://algojobs.io/company/web/) | N/A | Brazil - Remote |
 | 04/02/2025 | [Sr. Software Developer I (PHP) - Video Sharing Platforms](https://algojobs.io/jobs/3669989) | [Aylo Careers](https://algojobs.io/company/aylo/) | N/A | Montréal, Quebec |
 | 04/01/2025 | [Staff Backend Engineer](https://algojobs.io/jobs/3655050) | [Roofr](https://algojobs.io/company/roofr/) | N/A | Remote - Canada |
-| 04/01/2025 | [Senior Fullstack Developer (Laravel/PHP)](https://algojobs.io/jobs/3655553) | [Appnovation Technologies](https://algojobs.io/company/appnovation/) | N/A | Lisbon |
 | 04/01/2025 | [Lead FullStack Engineer (Web3)](https://algojobs.io/jobs/3658144) | [Kiln](https://algojobs.io/company/kiln.fi/) | N/A | Remote Western EU |
 | 03/31/2025 | [Senior Developer](https://algojobs.io/jobs/3639915) | [Coconut Software ](https://algojobs.io/company/coconutsoftware/) | N/A | Canada - Remote |
-| 03/31/2025 | [Senior PHP Software Engineer](https://algojobs.io/jobs/3638351) | [Beyond Co](https://algojobs.io/company/beyondco/) | $60K - $65K | Belfast, Northern Ireland, United Kingdom (Remote) |
 | 03/31/2025 | [Lead Software Developer](https://algojobs.io/jobs/3643599) | [Ticketmaster](https://algojobs.io/company/livenation/) | N/A | Toronto, ON, CA, Canada |
 | 03/31/2025 | [Lead Software Developer](https://algojobs.io/jobs/3643934) | [Live Nation Entertainment](https://algojobs.io/company/livenation/) | N/A | Toronto, ON, CA, Canada |
 | 03/31/2025 | [Lead PHP Developer](https://algojobs.io/jobs/3638369) | [Datassential](https://algojobs.io/company/datassential/) | $130K - $140K | United States (Remote) |
 | 03/31/2025 | [Senior Backend Developer - PHP Laravel](https://algojobs.io/jobs/3638165) | [Newrich Network](https://algojobs.io/company/newrich-network/) | N/A | Toronto, Ontario, Canada (Hybrid) |
 | 03/28/2025 | [Software Engineer](https://algojobs.io/jobs/3625527) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | BR - Pecem, Brazil |
-| 03/28/2025 | [Software Engineer](https://algojobs.io/jobs/3625529) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | BR - Pecem, Brazil |
 | 03/28/2025 | [Software Engineer](https://algojobs.io/jobs/3625563) | [A.P. Moller - Maersk](https://algojobs.io/company/maersk/) | N/A | BR - Pecem, Brazil |
 | 03/28/2025 | [Software Engineer - Mid level Frontend (Vue.js)](https://algojobs.io/jobs/3618814) | [Cover Genius](https://algojobs.io/company/covergenius/) | N/A | Sydney (Hybrid) |
 | 03/28/2025 | [Web Developer (JavaScript/React, Python/PHP)](https://algojobs.io/jobs/3618865) | [Hypebeast](https://algojobs.io/company/hypebeast/) | N/A | Hong Kong |
@@ -50,11 +58,11 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/19/2025 | [Full-Stack Developer (Laravel, React.js, Vue.js)](https://algojobs.io/jobs/3524651) | [Viseven](https://algojobs.io/company/viseven/) | N/A | Cordoba, Rosario, Buenos Aires (Remote) |
 | 03/19/2025 | [Senior Moodle Developer](https://algojobs.io/jobs/3508329) | [Moodle](https://algojobs.io/company/moodle/) | N/A | Hyderabad, Telangana, India |
 | 03/18/2025 | [Mid PHP Developer](https://algojobs.io/jobs/3511187) | [INGENIOUS.BUILD](https://algojobs.io/company/ingenious/) | N/A | Poland - Remote |
+| 03/13/2025 | [Back-End Software Engineer - PHP, Public API team](https://algojobs.io/jobs/3465405) | [Printify](https://algojobs.io/company/printify/) | N/A | Poland / Barcelona / Riga, Tallinn or remotely |
 | 03/11/2025 | [Senior Software Engineer I [Backend] - SM Apply & Wufoo Teams](https://algojobs.io/jobs/3437707) | [SurveyMonkey](https://algojobs.io/company/surveymonkey/) | N/A | Bengaluru, India |
 | 03/11/2025 | [Senior PHP Developer](https://algojobs.io/jobs/3434700) | [Mumsnet](https://algojobs.io/company/mumsnet/) | $65K - $75K | London, England, United Kingdom (Hybrid) |
 | 03/10/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3422273) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
 | 03/10/2025 | [Software Engineer - Mid level Frontend](https://algojobs.io/jobs/3494522) | [Cover Genius](https://algojobs.io/company/covergenius/) | N/A | Sydney (Hybrid) |
-| 03/10/2025 | [Senior Full Stack Developer](https://algojobs.io/jobs/3434734) | [Shift](https://algojobs.io/company/shift-online/) | $45K - $55K | Plymouth, England, United Kingdom (Hybrid) |
 | 03/07/2025 | [Software Engineering Lead](https://algojobs.io/jobs/3410989) | [RELX](https://algojobs.io/company/relx/) | N/A | Wales, United Kingdom |
 | 03/07/2025 | [Full Stack Developer (MERN, LLMs)](https://algojobs.io/jobs/3402106) | [Wing Assistant](https://algojobs.io/company/getwingapp/) | N/A | New Delhi, India (Remote) |
 | 03/07/2025 | [Full Stack Developer (MERN, LLMs)](https://algojobs.io/jobs/3402107) | [Wing Assistant](https://algojobs.io/company/getwingapp/) | N/A | Mumbai (Remote) |
@@ -69,7 +77,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/01/2025 | [Senior Software Engineer (copy)](https://algojobs.io/jobs/3335868) | [Quartzy](https://algojobs.io/company/quartzy/) | $125K - $150K | Remote |
 | 02/28/2025 | [Senior Software Engineer I](https://algojobs.io/jobs/3315685) | [RELX](https://algojobs.io/company/relx/) | N/A | Mumbai, India |
 | 02/28/2025 | [Senior Software Engineer I](https://algojobs.io/jobs/3315688) | [RELX](https://algojobs.io/company/relx/) | N/A | Mumbai / Gurgaon / Chennai |
-| 02/28/2025 | [Backend Engineer](https://algojobs.io/jobs/3311147) | [Ankorstore](https://algojobs.io/company/ankorstore/) | N/A | Paris |
 | 02/27/2025 | [Intermediate Developer](https://algojobs.io/jobs/3304289) | [Coconut Software ](https://algojobs.io/company/coconutsoftware/) | N/A | Canada - Remote |
 | 02/27/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3306071) | [MongoDB](https://algojobs.io/company/mongodb/) | N/A | Paris |
 | 02/27/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3306072) | [MongoDB](https://algojobs.io/company/mongodb/) | N/A | Dublin |
@@ -88,13 +95,8 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 02/26/2025 | [Founding Full Stack Developer (MERN, LLMs)](https://algojobs.io/jobs/3280222) | [Wing Assistant](https://algojobs.io/company/getwingapp/) | N/A | Bengaluru (Remote) |
 | 02/26/2025 | [Founding Full Stack Developer (MERN, LLMs)](https://algojobs.io/jobs/3280227) | [Wing Assistant](https://algojobs.io/company/getwingapp/) | N/A | Kolkata (Remote) |
 | 02/24/2025 | [Junior Backend Engineer (Car TX)](https://algojobs.io/jobs/3241752) | [letgo](https://algojobs.io/company/letgo/) | N/A | İstanbul, Turkey (Hybrid) |
+| 02/18/2025 | [Full-Stack PHP Developer](https://algojobs.io/jobs/3186643) | [Employment Hero](https://algojobs.io/company/employment-hero/) | N/A | Vietnam (Remote) |
 | 02/16/2025 | [Junior Back end Developer](https://algojobs.io/jobs/3170005) | [Jeenka](https://algojobs.io/company/jeenka/) | N/A | Milan, Metropolitan City of Milan, Italy (Hybrid) |
 | 02/16/2025 | [Senior Associate - Laravel Developer](https://algojobs.io/jobs/3174841) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Kuala Lumpur, Malaysia |
 | 02/16/2025 | [Experienced Associate - Laravel Developer](https://algojobs.io/jobs/3174843) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Kuala Lumpur, Malaysia |
-| 02/16/2025 | [Experienced Associate - Frontend Web Developer](https://algojobs.io/jobs/3174840) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Kuala Lumpur, Malaysia |
 | 02/14/2025 | [Software Engineer (Netsuite)](https://algojobs.io/jobs/3163639) | [CASETiFY](https://algojobs.io/company/casetify/) | N/A | Kwun Tong, Hong Kong |
-| 02/11/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/3121896) | [Cordros Capital Limited](https://algojobs.io/company/cordros/) | N/A | Lagos, Nigeria. |
-| 02/11/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3293891) | [Greenplaces](https://algojobs.io/company/greenplaces/) | N/A | Raleigh, North Carolina, United States, Remote |
-| 02/10/2025 | [PHP Developer](https://algojobs.io/jobs/3106807) | [Kaseya Careers](https://algojobs.io/company/kaseya/) | N/A | Kraków, Lesser Poland Voivodeship, Poland |
-| 02/10/2025 | [Senior Software Developer](https://algojobs.io/jobs/3109560) | [Ticketmaster](https://algojobs.io/company/livenation/) | N/A | Toronto, ON, CAN / Saskatoon, SK, CAN / Winnipeg, MB, CAN / ... |
-| 02/10/2025 | [Senior Software Developer](https://algojobs.io/jobs/3109605) | [Live Nation Entertainment](https://algojobs.io/company/livenation/) | N/A | Toronto, ON, CAN / Saskatoon, SK, CAN / Winnipeg, MB, CAN / ... |
